@@ -1,0 +1,9 @@
+version: 2.5.1-SUM-2170.1
+files:
+  - url: sm-web-2.5.1-SUM-2170.1-x86_64.AppImage
+    sha512: 1l4GGo4xnJDAqCojdTTn40SgEIhQaxd0/R+9lEMWfKYsGfSl/5oHfsHBpfaxmwmlYhP1FzHFIC8rjH5dKRCjEA==
+    size: 96085657
+    blockMapSize: 102365
+path: sm-web-2.5.1-SUM-2170.1-x86_64.AppImage
+sha512: 1l4GGo4xnJDAqCojdTTn40SgEIhQaxd0/R+9lEMWfKYsGfSl/5oHfsHBpfaxmwmlYhP1FzHFIC8rjH5dKRCjEA==
+releaseDate: '2019-05-06T09:10:06.463Z'

@@ -1,0 +1,8 @@
+version: 2.5.1-SUM-2170.1
+files:
+  - url: sm-web-setup-2.5.1-SUM-2170.1.exe
+    sha512: ou2Pk2fuyys2X0kxvpLjOu4WWqe+Huy2S5JegafjEWR3hstjCDk4WbdEviZr9u/HoEw/5GFIFl9/Yvo4LbTt3w==
+    size: 55010688
+path: sm-web-setup-2.5.1-SUM-2170.1.exe
+sha512: ou2Pk2fuyys2X0kxvpLjOu4WWqe+Huy2S5JegafjEWR3hstjCDk4WbdEviZr9u/HoEw/5GFIFl9/Yvo4LbTt3w==
+releaseDate: '2019-05-06T09:10:06.463Z'

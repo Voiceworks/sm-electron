@@ -1,0 +1,12 @@
+version: 2.5.1-SUM-2170.1
+files:
+  - url: sm-web-2.5.1-SUM-2170.1-mac.zip
+    sha512: TNtSDyV0Ob1Q8ilUd5h/5ezONLAKqZ/sO4KWu1Rw1gJU783Aa+D2laknkWmUMbXrHK6cClKV2MxVKCSWsJuYSg==
+    size: 70327141
+    blockMapSize: 74521
+  - url: sm-web-2.5.1-SUM-2170.1.dmg
+    sha512: P/O6Wi6ij2fm3PSMiNomG1ftMn1+wC2h/Xod68OI6GzkDDuu8MKn6lcLbtIiLqUnv9O/t8iWWRAf8UM+0IytDw==
+    size: 72688973
+path: sm-web-2.5.1-SUM-2170.1-mac.zip
+sha512: TNtSDyV0Ob1Q8ilUd5h/5ezONLAKqZ/sO4KWu1Rw1gJU783Aa+D2laknkWmUMbXrHK6cClKV2MxVKCSWsJuYSg==
+releaseDate: '2019-05-06T09:10:06.463Z'
